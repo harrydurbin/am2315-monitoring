@@ -1,0 +1,1733 @@
+#####################################################
+2018-06-04 22:01:11.596068
+76.28
+32.5
+#####################################################
+2018-06-04 22:31:16.257721
+76.64
+33.1
+#####################################################
+2018-06-04 23:01:20.699670
+76.28
+32.8
+#####################################################
+2018-06-04 23:31:24.772216
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:28.947474
+75.92
+32.7
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 21:31:11.928715
+73.58
+30.5
+#####################################################
+2018-06-04 22:01:16.027145
+76.46
+32.6
+#####################################################
+2018-06-04 22:31:19.943741
+76.28
+33.1
+#####################################################
+2018-06-04 23:01:23.781296
+76.28
+32.9
+#####################################################
+2018-06-04 23:31:27.599983
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:31.817377
+75.92
+32.7
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 21:01:11.287047
+73.94
+34.7
+#####################################################
+2018-06-04 21:31:14.997749
+73.58
+32.0
+#####################################################
+2018-06-04 22:01:20.327396
+76.64
+32.6
+#####################################################
+2018-06-04 22:31:24.327384
+76.28
+33.1
+#####################################################
+2018-06-04 23:01:28.577388
+76.28
+32.8
+#####################################################
+2018-06-04 23:31:32.327397
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:36.076448
+75.92
+32.7
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 20:31:11.288220
+75.02
+36.7
+#####################################################
+2018-06-04 21:01:15.573755
+73.94
+34.4
+#####################################################
+2018-06-04 21:31:20.577402
+76.28
+32.1
+#####################################################
+2018-06-04 22:01:24.577398
+76.64
+32.6
+#####################################################
+2018-06-04 22:31:28.777407
+76.28
+33.2
+#####################################################
+2018-06-04 23:01:32.348827
+76.28
+32.9
+#####################################################
+2018-06-04 23:31:36.577390
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:40.327409
+75.92
+32.6
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 20:01:11.143026
+79.16
+33.7
+#####################################################
+2018-06-04 20:31:15.039910
+75.02
+36.1
+#####################################################
+2018-06-04 21:01:18.827359
+73.4
+34.4
+#####################################################
+2018-06-04 21:31:23.177399
+76.28
+32.2
+#####################################################
+2018-06-04 22:01:27.077413
+76.64
+32.5
+#####################################################
+2018-06-04 22:31:31.482632
+76.46
+33.1
+#####################################################
+2018-06-04 23:01:35.173545
+76.28
+32.8
+#####################################################
+2018-06-04 23:31:38.897385
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:42.747369
+75.92
+32.6
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 19:31:15.960635
+78.44
+35.1
+#####################################################
+2018-06-04 20:01:19.694023
+76.1
+33.0
+#####################################################
+2018-06-04 20:31:23.516377
+73.94
+36.0
+#####################################################
+2018-06-04 21:01:27.296052
+73.4
+34.4
+#####################################################
+2018-06-04 21:31:30.992979
+76.46
+32.1
+#####################################################
+2018-06-04 22:01:35.247815
+76.64
+32.6
+#####################################################
+2018-06-04 22:31:38.757666
+76.28
+33.2
+#####################################################
+2018-06-04 23:01:42.327409
+76.28
+32.8
+#####################################################
+2018-06-04 23:31:47.234143
+75.74000000000001
+32.9
+#####################################################
+2018-06-05 00:01:51.017183
+75.92
+32.7
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 00:31:11.263069
+75.92
+32.9
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 00:01:11.868519
+75.92
+32.7
+#####################################################
+2018-06-05 00:31:15.657408
+75.92
+32.8
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 23:31:12.014696
+76.28
+33.2
+#####################################################
+2018-06-05 00:01:16.577395
+75.74000000000001
+32.6
+#####################################################
+2018-06-05 00:31:20.527416
+75.56
+32.8
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 23:01:11.753220
+76.46
+33.0
+#####################################################
+2018-06-04 23:31:18.077411
+76.28
+32.8
+#####################################################
+2018-06-05 00:01:23.017398
+75.74000000000001
+32.7
+#####################################################
+2018-06-05 00:31:27.327424
+75.56
+32.8
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-04 22:31:11.411541
+76.64
+33.4
+#####################################################
+2018-06-04 23:01:15.247063
+76.46
+32.9
+#####################################################
+2018-06-04 23:31:21.319784
+75.74000000000001
+32.8
+#####################################################
+2018-06-05 00:01:25.097395
+75.74000000000001
+32.7
+#####################################################
+2018-06-05 00:31:29.047435
+75.56
+32.8
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 01:01:11.236607
+75.56
+33.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 01:31:11.556816
+75.56
+32.9
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 02:01:16.865809
+75.56
+33.6
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 02:31:11.050145
+75.74000000000001
+33.9
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 03:01:11.066868
+75.2
+34.4
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 03:31:11.308865
+75.02
+35.1
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 04:01:11.320296
+74.84
+35.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 04:31:11.582260
+74.48
+35.4
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 05:01:11.780816
+74.3
+35.5
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 05:31:11.463296
+74.12
+36.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 06:01:11.508960
+74.3
+35.5
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 06:31:10.894606
+73.58
+35.1
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 07:01:11.173025
+73.4
+37.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 07:31:11.338272
+72.68
+37.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 08:01:11.713261
+71.06
+50.4
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 08:31:10.862289
+71.24000000000001
+45.1
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 09:01:11.210525
+71.42
+42.7
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 09:31:11.836999
+71.78
+37.3
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 10:01:10.927612
+71.78
+37.3
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 10:31:11.350247
+71.78
+33.8
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 11:01:11.536581
+71.78
+33.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 11:31:10.692999
+72.14
+34.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 12:01:11.404723
+72.5
+33.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 12:31:11.957329
+72.5
+33.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 13:01:10.981413
+72.32
+33.4
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 13:31:11.371615
+72.5
+34.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 14:01:11.503650
+72.5
+34.2
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 14:31:11.616353
+72.5
+33.4
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 15:01:11.782909
+72.68
+33.3
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 15:31:11.015404
+73.4
+34.0
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 16:01:11.055811
+73.94
+33.9
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 16:31:11.262040
+74.12
+35.5
+Traceback (most recent call last):
+  File "read-am2315.py", line 172, in <module>
+    plot_url = py.plot(fig, filename='sj_temperature', auto_open = False)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/plotly/plotly.py", line 233, in plot
+    response = v1.clientresp(data, **plot_options)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/clientresp.py", line 35, in clientresp
+    response = request('post', url, data=payload)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 86, in request
+    validate_response(response)
+  File "/home/pi/.local/lib/python3.5/site-packages/plotly/api/v1/utils.py", line 38, in validate_response
+    raise exceptions.PlotlyRequestError(message, status_code, content)
+plotly.exceptions.PlotlyRequestError: Hi there, you've reached the threshold of 100 combined image exports and chart saves per day. If you need to raise your daily limit, consider upgrading to a Student or Personal Plan
+see: https://plot.ly/products/cloud
+#####################################################
+2018-06-05 18:00:11.910580
+74.48
+35.4
+#####################################################
+2018-06-05 19:00:11.454929
+74.84
+33.2
+#####################################################
+2018-06-05 19:30:16.651832
+75.2
+35.2
+#####################################################
+2018-06-06 02:00:11.676564
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:15.530182
+72.68
+35.1
+#####################################################
+2018-06-06 01:00:11.570535
+71.96
+33.5
+#####################################################
+2018-06-06 01:30:15.577416
+72.68
+33.9
+#####################################################
+2018-06-06 02:00:19.944730
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:23.697121
+72.68
+35.0
+#####################################################
+2018-06-06 00:00:12.311298
+69.44
+33.1
+#####################################################
+2018-06-06 00:30:16.508131
+69.44
+32.8
+#####################################################
+2018-06-06 01:00:21.285571
+71.96
+34.0
+#####################################################
+2018-06-06 01:30:25.017399
+72.68
+33.9
+#####################################################
+2018-06-06 02:00:28.827404
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:32.577416
+72.5
+34.9
+#####################################################
+2018-06-05 23:00:11.119930
+76.46
+34.9
+#####################################################
+2018-06-05 23:30:16.259681
+74.12
+34.7
+#####################################################
+2018-06-06 00:00:20.137395
+69.25999999999999
+33.2
+#####################################################
+2018-06-06 00:30:23.827401
+69.44
+34.2
+#####################################################
+2018-06-06 01:00:27.897391
+72.68
+33.9
+#####################################################
+2018-06-06 01:30:31.897396
+72.68
+33.9
+#####################################################
+2018-06-06 02:00:35.737396
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:40.052440
+72.5
+34.9
+#####################################################
+2018-06-05 21:00:10.880785
+77.72
+35.2
+#####################################################
+2018-06-05 21:30:15.119066
+75.74000000000001
+35.4
+#####################################################
+2018-06-05 22:00:19.173360
+74.3
+33.6
+#####################################################
+2018-06-05 22:30:23.577393
+74.3
+32.0
+#####################################################
+2018-06-05 23:00:27.897400
+73.94
+33.4
+#####################################################
+2018-06-05 23:30:31.607800
+69.44
+32.0
+#####################################################
+2018-06-06 00:00:35.257414
+69.44
+33.0
+#####################################################
+2018-06-06 00:30:39.197796
+71.78
+34.1
+#####################################################
+2018-06-06 01:00:43.314166
+72.68
+33.9
+#####################################################
+2018-06-06 01:30:47.187360
+1830.2
+33.8
+#####################################################
+2018-06-06 02:00:50.827394
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:54.827401
+72.5
+34.9
+#####################################################
+2018-06-05 22:00:11.118998
+74.3
+33.0
+#####################################################
+2018-06-05 22:30:15.257407
+74.3
+30.8
+#####################################################
+2018-06-05 23:00:20.697402
+76.46
+33.5
+#####################################################
+2018-06-05 23:30:24.577406
+74.12
+32.1
+#####################################################
+2018-06-06 00:00:29.030978
+69.62
+33.0
+#####################################################
+2018-06-06 00:30:32.814353
+71.78
+34.1
+#####################################################
+2018-06-06 01:00:36.988319
+72.68
+33.8
+#####################################################
+2018-06-06 01:30:46.702376
+72.68
+33.8
+#####################################################
+2018-06-06 02:00:51.471978
+72.68
+34.7
+#####################################################
+2018-06-06 02:30:55.157364
+72.5
+34.9
+#####################################################
+2018-06-05 20:00:13.127532
+78.08
+35.9
+#####################################################
+2018-06-05 20:30:18.300779
+78.25999999999999
+32.4
+#####################################################
+2018-06-05 21:00:22.151579
+80.24000000000001
+34.5
+#####################################################
+2018-06-05 21:30:26.306329
+75.56
+35.1
+#####################################################
+2018-06-05 22:00:30.093065
+74.3
+33.8
+#####################################################
+2018-06-05 22:30:33.872805
+76.46
+32.0
+#####################################################
+2018-06-05 23:00:37.712539
+74.12
+33.4
+#####################################################
+2018-06-05 23:30:41.584474
+69.44
+31.9
+#####################################################
+2018-06-06 00:00:48.779537
+69.44
+32.9
+#####################################################
+2018-06-06 00:30:52.827416
+71.78
+34.1
+#####################################################
+2018-06-06 01:00:56.827393
+72.68
+33.9
+#####################################################
+2018-06-06 01:31:00.457412
+72.68
+33.9
+#####################################################
+2018-06-06 02:01:04.506224
+72.68
+34.6
+#####################################################
+2018-06-06 02:31:08.029125
+72.5
+34.9
+#####################################################
+2018-06-06 03:00:11.273400
+72.5
+34.8
+#####################################################
+2018-06-06 04:00:11.756735
+72.5
+35.8
+#####################################################
+2018-06-06 05:00:11.229590
+72.68
+36.9
+#####################################################
+2018-06-06 06:00:11.893475
+72.14
+39.3
+#####################################################
+2018-06-06 07:00:12.768981
+71.78
+40.8
+#####################################################
+2018-06-06 22:00:11.176030
+70.88
+35.6
+#####################################################
+2018-06-06 21:00:11.366740
+74.3
+41.9
+#####################################################
+2018-06-06 21:30:15.382450
+74.84
+32.4
+#####################################################
+2018-06-06 22:00:19.247747
+69.44
+34.8
+#####################################################
+2018-06-06 22:30:10.915538
+69.62
+32.3
+#####################################################
+2018-06-06 23:00:11.916871
+70.7
+43.1
+#####################################################
+2018-06-06 23:30:16.106488
+69.08
+42.8
+#####################################################
+2018-06-07 00:00:19.828053
+72.14
+41.0
+#####################################################
+2018-06-07 00:30:23.571921
+69.8
+42.6
+#####################################################
+2018-06-07 00:00:11.711768
+71.24000000000001
+40.5
+#####################################################
+2018-06-07 00:30:15.529229
+72.14
+42.7
+#####################################################
+2018-06-07 01:00:20.279244
+72.32
+38.8
+#####################################################
+2018-06-07 01:30:23.983168
+72.68
+38.5
+#####################################################
+2018-06-07 02:00:34.199258
+72.5
+39.0
+#####################################################
+2018-06-07 02:00:10.755027
+72.68
+39.2
+#####################################################
+2018-06-07 02:30:15.447842
+72.5
+39.4
+#####################################################
+2018-06-07 01:00:11.962807
+69.98
+37.6
+#####################################################
+2018-06-07 01:30:16.392416
+72.32
+38.6
+#####################################################
+2018-06-07 02:00:22.526360
+72.68
+39.1
+#####################################################
+2018-06-07 02:30:27.169476
+72.32
+39.3
+#####################################################
+2018-06-07 01:30:12.767377
+72.32
+38.4
+#####################################################
+2018-06-07 02:00:24.095232
+72.5
+39.1
+#####################################################
+2018-06-07 02:30:28.279204
+72.32
+39.3
+#####################################################
+2018-06-07 00:30:11.951505
+72.14
+44.2
+#####################################################
+2018-06-07 01:00:16.164137
+69.98
+38.9
+#####################################################
+2018-06-07 01:30:20.690117
+72.68
+38.5
+#####################################################
+2018-06-07 02:00:28.855167
+72.5
+39.0
+#####################################################
+2018-06-07 02:30:33.029240
+72.32
+39.3
+#####################################################
+2018-06-06 23:30:11.556330
+69.08
+41.6
+#####################################################
+2018-06-07 00:00:15.713535
+71.24000000000001
+41.0
+#####################################################
+2018-06-07 00:30:19.419942
+69.8
+42.7
+#####################################################
+2018-06-07 01:00:23.159436
+72.32
+38.8
+#####################################################
+2018-06-07 01:30:26.867321
+72.68
+38.4
+#####################################################
+2018-06-07 02:00:39.106415
+72.5
+39.0
+#####################################################
+2018-06-07 02:30:44.523697
+72.32
+39.4
+#####################################################
+2018-06-06 21:30:11.261497
+74.84
+34.6
+#####################################################
+2018-06-06 22:00:15.029251
+70.88
+34.8
+#####################################################
+2018-06-06 22:30:18.779267
+69.62
+33.0
+#####################################################
+2018-06-06 23:00:22.529253
+70.34
+42.3
+#####################################################
+2018-06-06 23:30:26.529247
+71.24000000000001
+42.8
+#####################################################
+2018-06-07 00:00:30.233032
+72.14
+40.9
+#####################################################
+2018-06-07 00:30:33.913706
+69.8
+42.7
+#####################################################
+2018-06-07 01:00:37.779263
+72.32
+38.8
+#####################################################
+2018-06-07 01:30:46.029247
+72.68
+38.5
+#####################################################
+2018-06-07 02:00:52.338181
+72.5
+39.1
+#####################################################
+2018-06-07 02:30:56.088173
+72.32
+39.4
+#####################################################
+2018-06-06 20:00:16.677855
+73.94
+39.4
+#####################################################
+2018-06-06 20:30:20.439249
+73.94
+40.0
+#####################################################
+2018-06-06 21:00:24.646978
+74.48
+42.1
+#####################################################
+2018-06-06 21:30:28.779246
+70.88
+32.3
+#####################################################
+2018-06-06 22:00:32.529243
+69.44
+35.0
+#####################################################
+2018-06-06 22:30:36.279256
+70.7
+33.0
+#####################################################
+2018-06-06 23:00:40.072347
+69.08
+42.3
+#####################################################
+2018-06-06 23:30:43.779236
+71.24000000000001
+42.7
+#####################################################
+2018-06-07 00:00:47.529245
+72.14
+40.9
+#####################################################
+2018-06-07 00:30:51.413596
+69.8
+42.9
+#####################################################
+2018-06-07 01:00:55.029234
+72.32
+38.8
+#####################################################
+2018-06-07 01:31:00.193033
+72.68
+38.5
+#####################################################
+2018-06-07 02:01:07.880077
+72.5
+39.1
+#####################################################
+2018-06-07 02:31:12.083642
+72.5
+39.3
+#####################################################
+2018-06-07 03:00:11.087420
+72.32
+39.1
+#####################################################
+2018-06-07 02:30:11.554516
+72.5
+39.5
+#####################################################
+2018-06-07 03:00:15.959251
+72.32
+39.0
+#####################################################
+2018-06-07 03:30:11.870082
+72.14
+39.0
+#####################################################
+2018-06-07 04:00:10.924602
+72.14
+39.3
+#####################################################
+2018-06-07 04:30:10.892748
+72.14
+38.9
+#####################################################
+2018-06-07 05:00:11.200406
+71.78
+38.1
+#####################################################
+2018-06-07 05:30:11.506576
+71.96
+38.5
+#####################################################
+2018-06-07 06:00:11.347552
+72.14
+38.8
+#####################################################
+2018-06-07 06:30:11.877850
+71.78
+42.9
+#####################################################
+2018-06-07 07:00:11.268925
+71.6
+42.9
+#####################################################
+2018-06-07 07:30:11.209024
+69.98
+42.9
+#####################################################
+2018-06-07 08:00:11.622985
+69.98
+44.6
+#####################################################
+2018-06-07 08:30:11.304110
+69.98
+42.9
+#####################################################
+2018-06-07 09:00:11.036860
+69.98
+43.1
+#####################################################
+2018-06-07 09:30:11.332868
+70.34
+43.1
+#####################################################
+2018-06-07 10:00:12.690679
+70.34
+45.4
+#####################################################
+2018-06-07 10:30:11.213711
+70.34
+43.3
+#####################################################
+2018-06-07 11:00:11.530097
+70.34
+43.1
+#####################################################
+2018-06-07 11:30:11.416128
+70.34
+41.3
+#####################################################
+2018-06-07 12:00:11.037064
+70.34
+40.7
+#####################################################
+2018-06-07 12:30:11.443495
+70.52
+39.2
+#####################################################
+2018-06-07 13:00:11.648729
+70.88
+39.7
+#####################################################
+2018-06-07 13:30:11.832111
+70.7
+40.0
+#####################################################
+2018-06-07 14:00:12.432329
+70.7
+39.9
+#####################################################
+2018-06-07 14:30:11.942686
+70.7
+39.0
+#####################################################
+2018-06-07 15:00:11.180338
+70.7
+38.7
+#####################################################
+2018-06-07 15:30:11.618114
+70.88
+39.4
+#####################################################
+2018-06-07 16:00:10.962329
+70.88
+38.2
+#####################################################
+2018-06-07 16:30:11.435016
+71.6
+36.8
+#####################################################
+2018-06-07 17:00:11.687918
+72.14
+38.1
+#####################################################
+2018-06-07 17:30:11.105722
+72.86
+38.6
+#####################################################
+2018-06-07 18:00:11.393352
+73.4
+38.1
+#####################################################
+2018-06-07 18:30:11.645408
+73.58
+39.1
+#####################################################
+2018-06-07 19:00:11.173605
+74.3
+39.2
+#####################################################
+2018-06-07 19:30:11.632672
+74.48
+38.1
+#####################################################
+2018-06-07 20:00:12.457269
+74.84
+38.5
+#####################################################
+2018-06-08 17:30:16.914616
+76.1
+38.7
+#####################################################
+2018-06-08 18:00:11.899652
+76.1
+37.7
+#####################################################
+2018-06-08 18:30:11.555607
+75.74000000000001
+38.8
+#####################################################
+2018-06-08 19:00:11.033581
+77.36
+43.3
+#####################################################
+2018-06-08 19:30:11.072675
+74.12
+41.0
+#####################################################
+2018-06-08 20:00:11.334621
+73.4
+36.5
+#####################################################
+2018-06-08 20:30:10.818528
+73.22
+37.7
+#####################################################
+2018-06-08 21:00:11.465141
+73.58
+43.4
+#####################################################
+2018-06-08 21:30:11.222930
+73.58
+41.6
+#####################################################
+2018-06-08 22:00:11.689623
+73.22
+41.5
+#####################################################
+2018-06-08 22:30:11.034823
+73.4
+37.3
+#####################################################
+2018-06-08 23:00:11.314282
+73.4
+41.3
+#####################################################
+2018-06-08 23:30:11.076982
+74.3
+42.4
+#####################################################
+2018-06-09 00:00:11.978095
+73.94
+39.0
+#####################################################
+2018-06-09 00:30:11.866276
+73.58
+39.9
+#####################################################
+2018-06-09 01:00:11.669939
+75.02
+41.7
+#####################################################
+2018-06-09 01:30:11.295658
+74.84
+41.7
+#####################################################
+2018-06-09 02:00:11.172964
+74.48
+42.0
+#####################################################
+2018-06-09 02:30:11.960255
+74.84
+41.8
+#####################################################
+2018-06-09 03:00:11.326308
+74.84
+42.4
+#####################################################
+2018-06-09 03:30:11.793444
+74.48
+42.6
+#####################################################
+2018-06-09 04:00:12.671416
+74.12
+41.6
+#####################################################
+2018-06-09 04:30:11.061782
+73.94
+42.1
+#####################################################
+2018-06-09 05:00:11.277867
+73.94
+41.9
+#####################################################
+2018-06-09 05:30:11.314307
+74.12
+42.5
+#####################################################
+2018-06-09 06:00:11.037387
+73.94
+43.3
+#####################################################
+2018-06-09 06:30:12.104471
+73.58
+44.0
+#####################################################
+2018-06-09 07:00:11.380835
+73.4
+44.1
+#####################################################
+2018-06-09 07:30:11.058816
+73.4
+44.3
+#####################################################
+2018-06-09 08:00:11.297968
+73.58
+45.1
+#####################################################
+2018-06-09 08:30:16.748318
+73.22
+44.9
+#####################################################
+2018-06-09 09:00:11.078106
+73.4
+44.9
+#####################################################
+2018-06-09 09:30:11.734183
+73.22
+43.4
+#####################################################
+2018-06-09 10:00:11.313185
+73.22
+45.5
+#####################################################
+2018-06-09 10:30:11.092413
+74.3
+45.7
+#####################################################
+2018-06-09 11:00:11.353827
+74.3
+47.6
+#####################################################
+2018-06-09 11:30:11.566569
+74.66
+45.1
+#####################################################
+2018-06-09 12:00:11.342981
+74.84
+46.3
+eUylKL2RTFqgf4jU67h6
+#####################################################
+2018-06-09 12:30:10.866645
+76.28
+46.8
+eUylKL2RTFqgf4jU67h6
+#####################################################
+2018-06-09 13:00:11.091692
+76.28
+42.6
