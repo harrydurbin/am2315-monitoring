@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-import read-am2315
+import readam2315
 import weather_scraper
 import os
 import datetime
