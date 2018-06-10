@@ -44,7 +44,7 @@ if __name__ == "__main__":
 #	outside_temp = round(get_outside_temp(),1)
 	cur_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
 
-    weather_scraper.Weather()
+    weather_scraper.Weather
     print (weather_scraper.Weather.df)
     sjtempdf = weather_scraper.Weather.df
     sjtempdf = sjtempdf.T
