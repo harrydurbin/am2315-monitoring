@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-from AM2315 import *
+import read-am2315
+import weather_scraper
 import os
 import datetime
 import time
@@ -11,7 +12,6 @@ import json
 import sqlite3
 import pandas as pd
 import config
-#from statsmodels.tsa.arima_model import ARIMA
 
 this_dir, this_filename = os.path.split(__file__)
 DATA_PATH = os.path.join(this_dir, "data", "am2315_readings.db")
@@ -20,8 +20,9 @@ DATA_PATH = os.path.join(this_dir, "data", "am2315_readings.db")
 conn = sqlite3.connect(DATA_PATH)
 c = conn.cursor()
 
-c.execute('''CREATE TABLE IF NOT EXISTS am2315_readings
-		(date text, itemp real, ihum real)''')
+c.execute('''CREATE TABLE IF NOT EXISTS am2315readings
+		(num INTEGER AUTOINCREMENT, date text, itemp real, ihum real, sjtemp real, sjfeel real)''')
+
 prediction = 0
 
 
@@ -29,41 +30,40 @@ username = 'harry.durbin'
 api_key = config.api_key
 py.sign_in(username, api_key)
 
-def get_readings():
-	sensor = AM2315()
-	t = datetime.datetime.now()
-	temp = sensor.temperature()*9.0/5.0 + 32.0
-	hum = sensor.humidity()
-	print ('#####################################################')
-	print (t)
-	print (temp)
-	print (hum)
-	#print '{} temperature is {} and humidity is {}'.format('Indoor',temp,hum)
-	#print 'Time is {}.'.format(t)
-	return t,temp, hum
 
-
+# def execute()
+#     read-am2315.get_readings()
 
 if __name__ == "__main__":
+
+
 #while True:
-	sensor_readings = get_readings()
+	sensor_readings = read-am2315.get_readings()
 	sensor_temp = round(sensor_readings[1],2)
 	sensor_hum = round(sensor_readings[2],2)
 #	outside_temp = round(get_outside_temp(),1)
 	cur_time = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
 
+    weather_scraper.Weather()
+    print (weather_scraper.Weather.df)
+    sjtempdf = weather_scraper.Weather.df
+    sjtempdf = sjtempdf.T
+    sjtempreal = sjtempdf[1][2]
+    sjtempfeel = 0
+    sjtempreal = int(sjtempreal[:len(sjtempreal)-1])
+
 	# Insert a row of data
 	conn = sqlite3.connect(DATA_PATH)
 	c = conn.cursor()
-	new_row = [(cur_time, sensor_temp, sensor_hum,)]
-	c.executemany("INSERT INTO am2315_readings ('date', 'itemp', 'ihum') VALUES (?,?,?)", new_row)
+	new_row = [(cur_time, sensor_temp, sensor_hum, sjtemp, sjtempfeel)]
+	c.executemany("INSERT INTO am2315readings ('date', 'itemp', 'ihum', 'sjtemp', 'sjfeel') VALUES (?,?,?,?,?)", new_row)
 	conn.commit()
 
-	if prediction > 0:
-		print (prediction)
-		new_row = [(prediction,)]
-		c.executemany("INSERT INTO am2315_readings ('forecast') VALUES (?)", new_row)
-		conn.commit()
+	# if prediction > 0:
+	# 	# print (prediction)
+	# 	new_row = [(prediction,)]
+	# 	c.executemany("INSERT INTO am2315readings ('forecast') VALUES (?)", new_row)
+	# 	conn.commit()
 
 	# fetch the recent readings
 	df = pd.read_sql_query(
@@ -71,7 +71,7 @@ if __name__ == "__main__":
 	SELECT *
 	FROM (
 	SELECT *
-	FROM am2315_readings
+	FROM am2315readings
 	ORDER BY date DESC
 	LIMIT 24*7
 	)
@@ -85,7 +85,8 @@ if __name__ == "__main__":
 	df['time'] = df['date1'].dt.time
 	df.index = df.date1
 	df.index = pd.DatetimeIndex(df.index)
-    	#df = df.drop('forecast',1)
+
+    #df = df.drop('forecast',1)
 	#df['upper'] = df['outside']
 	#df['lower'] = df['outside']
 

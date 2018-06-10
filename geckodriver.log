@@ -1,0 +1,13 @@
+1528584443038	geckodriver	INFO	geckodriver 0.20.1
+1528584443107	geckodriver	INFO	Listening on 127.0.0.1:52801
+1528584444147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2TsWqhfgNkJp"
+1528584459104	Marionette	INFO	Listening on port 44975
+1528584459164	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:4705): dconf-WARNING **: 15:48:13.718: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+Gdk-Message: 15:48:34.744: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+[Child 4705, Chrome_ChildThread] WARNING: pipe error (21): Connection reset by peer: file /build/firefox-lojCEZ/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 22:48:34.750: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
