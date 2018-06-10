@@ -61,9 +61,9 @@ class Weather(object):
         print ('Accessing site...')
         self.go_to_site()
         self.get_temp()
+        display.stop()
 
 
 
 if __name__ == '__main__':
     Weather()
-    display.stop()
